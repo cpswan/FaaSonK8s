@@ -11,3 +11,4 @@ A list of Functions as a Service (FaaS) serverless platforms that run on Kuberne
     - [Apache OpenWhisk Deployment for Kubernetes](https://github.com/apache/incubator-openwhisk-deploy-kube)
 * [Nuclio](https://github.com/nuclio/nuclio)
 * [Riff](https://github.com/projectriff/riff)
+* [VMware Dispatch](https://github.com/vmware/dispatch)
