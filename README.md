@@ -22,7 +22,7 @@ With thanks to Gareth Rushgrove ([@garethr](https://github.com/garethr)), Sebast
 
 ## License and reuse
 
-A CC0 "[No Rights Reserved](https://creativecommons.org/share-your-work/public-domain/cc0/)" has been added to this repo to preempt further enquiries about using the list in conference presentations etc. Although attribution isn't required it would still be nice :)
+A CC0 "[No Rights Reserved](https://creativecommons.org/share-your-work/public-domain/cc0/)" has been added to this repo to preempt further enquiries about using the list in conference presentations etc. Although attribution isn't required it would still be nice :) If you take this and represent it as your own work I won't dispatch the Internet pitchfork mob, but they may come anyway - [DBAD](https://www.urbandictionary.com/define.php?term=d.b.a.d.).
 
 ## Contributing
 
