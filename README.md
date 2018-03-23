@@ -4,6 +4,7 @@ A list of Functions as a Service (FaaS) serverless platforms that run on Kuberne
 * [Azure Functions Runtime](http://www.jamessturtevant.com/posts/Running-the-Azure-Functions-runtime-in-kubernetes/)
 * [Fission](https://github.com/fission/fission)
 * [Fn](http://fnproject.io/)
+* [Gestalt](http://docs.galacticfog.com/install/kubernetes/general/)
 * [IronFunctions](http://open.iron.io/)
     - [HOWTO run IronFunction in Kubernetes at AWS](https://github.com/iron-io/functions/tree/master/docs/operating/kubernetes)
     - [Running a Python function on k8s with IronFunctions](https://blog.lwolf.org/post/how-to-run-functions-in-your-kubernetes-cluster/)
@@ -18,7 +19,7 @@ A list of Functions as a Service (FaaS) serverless platforms that run on Kuberne
 
 ## Credits
 
-With thanks to Gareth Rushgrove ([@garethr](https://github.com/garethr)), Sebastien Goasguen ([@sebgoa](https://github.com/sebgoa)) and Nick Coghlan ([@ncoghlan](https://github.com/ncoghlan)) for suggestions and additions.
+With thanks to Gareth Rushgrove ([@garethr](https://github.com/garethr)), Sebastien Goasguen ([@sebgoa](https://github.com/sebgoa)),  Anthony Skipper([@anthonyskipper](https://github.com/anthonyskipper)),   and Nick Coghlan ([@ncoghlan](https://github.com/ncoghlan)) for suggestions and additions.
 
 ## License and reuse
 
