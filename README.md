@@ -22,6 +22,10 @@ A list of Functions as a Service (FaaS) serverless platforms that run on Kuberne
 
 With thanks to Gareth Rushgrove ([@garethr](https://github.com/garethr)), Sebastien Goasguen ([@sebgoa](https://github.com/sebgoa)),  Anthony Skipper([@anthonyskipper](https://github.com/anthonyskipper)),   and Nick Coghlan ([@ncoghlan](https://github.com/ncoghlan)) for suggestions and additions.
 
+## Wot, no Knative?
+
+[@StevenACoffman](https://github.com/StevenACoffman) raised an [issue asking if Knative should be added](https://github.com/cpswan/FaaSonK8s/issues/3) and [@mylcore](https://github.com/mlycore) raised a [similar PR](https://github.com/cpswan/FaaSonK8s/pull/4). Whilst Knative brings a bunch of 'serverless' capabilities to Kubernetes, it's not really FaaS.
+
 ## License and reuse
 
 A CC0 "[No Rights Reserved](https://creativecommons.org/share-your-work/public-domain/cc0/)" has been added to this repo to preempt further enquiries about using the list in conference presentations etc. Although attribution isn't required it would still be nice :) If you take this and represent it as your own work I won't dispatch the Internet pitchfork mob, but they may come anyway - [DBAD](https://www.urbandictionary.com/define.php?term=d.b.a.d.).
