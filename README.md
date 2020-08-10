@@ -24,7 +24,7 @@ With thanks to Gareth Rushgrove ([@garethr](https://github.com/garethr)), Sebast
 
 ## Wot, no Knative?
 
-[@StevenACoffman](https://github.com/StevenACoffman) raised an [issue asking if Knative should be added](https://github.com/cpswan/FaaSonK8s/issues/3) and [@mylcore](https://github.com/mlycore) raised a [similar PR](https://github.com/cpswan/FaaSonK8s/pull/4). Whilst Knative brings a bunch of 'serverless' capabilities to Kubernetes, it's not really FaaS.
+[@StevenACoffman](https://github.com/StevenACoffman) raised an [issue asking if Knative should be added](https://github.com/cpswan/FaaSonK8s/issues/3) and [@mylcore](https://github.com/mlycore) raised a [similar PR](https://github.com/cpswan/FaaSonK8s/pull/4). Whilst [Knative](https://cloud.google.com/knative) brings a bunch of 'serverless' capabilities to Kubernetes, it's not really FaaS.
 
 ## License and reuse
 
