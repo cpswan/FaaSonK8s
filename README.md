@@ -2,7 +2,8 @@
 A list of Functions as a Service (FaaS) serverless platforms that run on Kubernetes
 
 * [Azure Functions Runtime](http://www.jamessturtevant.com/posts/Running-the-Azure-Functions-runtime-in-kubernetes/)
-* [CloudState](https://github.com/cloudstateio/cloudstate)
+* [Cloudstate](https://github.com/cloudstateio/cloudstate)
+* [Eigr Functions](https://eigr.io)
 * [Fission](https://github.com/fission/fission)
 * [Fn](http://fnproject.io/)
 * [Gestalt](http://docs.galacticfog.com/install/kubernetes/general/)
@@ -20,7 +21,7 @@ A list of Functions as a Service (FaaS) serverless platforms that run on Kuberne
 
 ## Credits
 
-With thanks to Gareth Rushgrove ([@garethr](https://github.com/garethr)), Sebastien Goasguen ([@sebgoa](https://github.com/sebgoa)),  Anthony Skipper([@anthonyskipper](https://github.com/anthonyskipper)),   and Nick Coghlan ([@ncoghlan](https://github.com/ncoghlan)) for suggestions and additions.
+With thanks to Gareth Rushgrove ([@garethr](https://github.com/garethr)), Sebastien Goasguen ([@sebgoa](https://github.com/sebgoa)), Anthony Skipper([@anthonyskipper](https://github.com/anthonyskipper)), and Nick Coghlan ([@ncoghlan](https://github.com/ncoghlan)) for suggestions and additions.
 
 ## Wot, no Knative?
 
